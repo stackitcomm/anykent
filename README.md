@@ -6,5 +6,6 @@ program menghitung total harga pembelian dengan mempertimbangkan diskon berdasar
 5. String
 6. List/Tuple/Dictionary
 7. Fungsi
+
 tambah kondisi
 tambah list barang beserta harganya dalam bentuk inputan 
