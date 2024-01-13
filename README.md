@@ -8,4 +8,5 @@ program menghitung total harga pembelian dengan mempertimbangkan diskon berdasar
 7. Fungsi
 
 tambah kondisi
+
 tambah list barang beserta harganya dalam bentuk inputan 
